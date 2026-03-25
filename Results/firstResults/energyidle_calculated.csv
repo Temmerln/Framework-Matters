@@ -1,0 +1,5 @@
+ID,power_sleep,energy_idle
+Nightwatch,1.85,9.675489285714326
+Playwright,1.85,10.929004142857154
+Puppeteer,1.85,7.489883571428581
+Selenium,1.85,6.512637857142857

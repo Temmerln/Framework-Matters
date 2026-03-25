@@ -1,0 +1,216 @@
+temp_fib_start = temp=47.7'C
+start fibonacci [Thu 12 Dec 04:25:45 CET 2024]
+duration of test 7652
+end fibonacci [Thu 12 Dec 04:25:53 CET 2024]
+temp_fib_end = temp=48.7'C
+./tests/idle.spec.js
+./tests/idle.spec.js; Run 1; 
+temp_before = temp=48.2'C
+start test [Thu 12 Dec 04:27:53 CET 2024]
+duration of test 21008
+end test [Thu 12 Dec 04:28:14 CET 2024]
+temp_after = temp=49.6'C
+./tests/idle.spec.js; Run 2; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 04:30:14 CET 2024]
+duration of test 15931
+end test [Thu 12 Dec 04:30:30 CET 2024]
+temp_after = temp=49.1'C
+./tests/idle.spec.js; Run 3; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 04:32:30 CET 2024]
+duration of test 15943
+end test [Thu 12 Dec 04:32:46 CET 2024]
+temp_after = temp=49.6'C
+./tests/idle.spec.js; Run 4; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 04:34:46 CET 2024]
+duration of test 15941
+end test [Thu 12 Dec 04:35:02 CET 2024]
+temp_after = temp=48.7'C
+./tests/idle.spec.js; Run 5; 
+temp_before = temp=45.7'C
+start test [Thu 12 Dec 04:37:02 CET 2024]
+duration of test 16009
+end test [Thu 12 Dec 04:37:18 CET 2024]
+temp_after = temp=48.7'C
+./tests/idle.spec.js; Run 6; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 04:39:18 CET 2024]
+duration of test 15923
+end test [Thu 12 Dec 04:39:34 CET 2024]
+temp_after = temp=49.1'C
+./tests/idle.spec.js; Run 7; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 04:41:34 CET 2024]
+duration of test 15904
+end test [Thu 12 Dec 04:41:50 CET 2024]
+temp_after = temp=49.6'C
+./tests/idle.spec.js; Run 8; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 04:43:50 CET 2024]
+duration of test 15891
+end test [Thu 12 Dec 04:44:06 CET 2024]
+temp_after = temp=48.7'C
+./tests/idle.spec.js; Run 9; 
+temp_before = temp=48.2'C
+start test [Thu 12 Dec 04:46:06 CET 2024]
+duration of test 15899
+end test [Thu 12 Dec 04:46:22 CET 2024]
+temp_after = temp=49.6'C
+./tests/idle.spec.js; Run 10; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 04:48:22 CET 2024]
+duration of test 15955
+end test [Thu 12 Dec 04:48:38 CET 2024]
+temp_after = temp=49.6'C
+./tests/idle.spec.js; Run 11; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 04:50:38 CET 2024]
+duration of test 15922
+end test [Thu 12 Dec 04:50:54 CET 2024]
+temp_after = temp=48.7'C
+./tests/idle.spec.js; Run 12; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 04:52:54 CET 2024]
+duration of test 15927
+end test [Thu 12 Dec 04:53:10 CET 2024]
+temp_after = temp=49.6'C
+./tests/idle.spec.js; Run 13; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 04:55:10 CET 2024]
+duration of test 15907
+end test [Thu 12 Dec 04:55:26 CET 2024]
+temp_after = temp=48.7'C
+./tests/idle.spec.js; Run 14; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 04:57:26 CET 2024]
+duration of test 15955
+end test [Thu 12 Dec 04:57:42 CET 2024]
+temp_after = temp=48.7'C
+./tests/idle.spec.js; Run 15; 
+temp_before = temp=48.2'C
+start test [Thu 12 Dec 04:59:42 CET 2024]
+duration of test 15932
+end test [Thu 12 Dec 04:59:58 CET 2024]
+temp_after = temp=49.1'C
+./tests/idle.spec.js; Run 16; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 05:01:58 CET 2024]
+duration of test 15985
+end test [Thu 12 Dec 05:02:14 CET 2024]
+temp_after = temp=49.1'C
+./tests/idle.spec.js; Run 17; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 05:04:14 CET 2024]
+duration of test 15954
+end test [Thu 12 Dec 05:04:30 CET 2024]
+temp_after = temp=48.7'C
+./tests/idle.spec.js; Run 18; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 05:06:30 CET 2024]
+duration of test 15952
+end test [Thu 12 Dec 05:06:46 CET 2024]
+temp_after = temp=49.1'C
+./tests/idle.spec.js; Run 19; 
+temp_before = temp=48.2'C
+start test [Thu 12 Dec 05:08:46 CET 2024]
+duration of test 15978
+end test [Thu 12 Dec 05:09:02 CET 2024]
+temp_after = temp=48.7'C
+./tests/idle.spec.js; Run 20; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 05:11:02 CET 2024]
+duration of test 15958
+end test [Thu 12 Dec 05:11:18 CET 2024]
+temp_after = temp=49.6'C
+./tests/idle.spec.js; Run 21; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 05:13:18 CET 2024]
+duration of test 15943
+end test [Thu 12 Dec 05:13:34 CET 2024]
+temp_after = temp=48.7'C
+./tests/idle.spec.js; Run 22; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 05:15:34 CET 2024]
+duration of test 15961
+end test [Thu 12 Dec 05:15:50 CET 2024]
+temp_after = temp=48.7'C
+./tests/idle.spec.js; Run 23; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 05:17:50 CET 2024]
+duration of test 15980
+end test [Thu 12 Dec 05:18:06 CET 2024]
+temp_after = temp=49.1'C
+./tests/idle.spec.js; Run 24; 
+temp_before = temp=48.2'C
+start test [Thu 12 Dec 05:20:06 CET 2024]
+duration of test 15964
+end test [Thu 12 Dec 05:20:22 CET 2024]
+temp_after = temp=49.6'C
+./tests/idle.spec.js; Run 25; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 05:22:22 CET 2024]
+duration of test 16004
+end test [Thu 12 Dec 05:22:38 CET 2024]
+temp_after = temp=49.1'C
+./tests/idle.spec.js; Run 26; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 05:24:38 CET 2024]
+duration of test 15978
+end test [Thu 12 Dec 05:24:54 CET 2024]
+temp_after = temp=50.6'C
+./tests/idle.spec.js; Run 27; 
+temp_before = temp=48.7'C
+start test [Thu 12 Dec 05:26:54 CET 2024]
+duration of test 15946
+end test [Thu 12 Dec 05:27:10 CET 2024]
+temp_after = temp=48.7'C
+./tests/idle.spec.js; Run 28; 
+temp_before = temp=48.2'C
+start test [Thu 12 Dec 05:29:10 CET 2024]
+duration of test 15970
+end test [Thu 12 Dec 05:29:26 CET 2024]
+temp_after = temp=50.6'C
+./tests/idle.spec.js; Run 29; 
+temp_before = temp=48.2'C
+start test [Thu 12 Dec 05:31:26 CET 2024]
+duration of test 15972
+end test [Thu 12 Dec 05:31:42 CET 2024]
+temp_after = temp=49.6'C
+./tests/idle.spec.js; Run 30; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 05:33:42 CET 2024]
+duration of test 15933
+end test [Thu 12 Dec 05:33:58 CET 2024]
+temp_after = temp=50.1'C
+./tests/idle.spec.js; Run 31; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 05:35:58 CET 2024]
+duration of test 15948
+end test [Thu 12 Dec 05:36:14 CET 2024]
+temp_after = temp=49.1'C
+./tests/idle.spec.js; Run 32; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 05:38:14 CET 2024]
+duration of test 15932
+end test [Thu 12 Dec 05:38:30 CET 2024]
+temp_after = temp=49.1'C
+./tests/idle.spec.js; Run 33; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 05:40:30 CET 2024]
+duration of test 15985
+end test [Thu 12 Dec 05:40:46 CET 2024]
+temp_after = temp=49.6'C
+./tests/idle.spec.js; Run 34; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 05:42:46 CET 2024]
+duration of test 15958
+end test [Thu 12 Dec 05:43:02 CET 2024]
+temp_after = temp=49.1'C
+./tests/idle.spec.js; Run 35; 
+temp_before = temp=46.2'C
+start test [Thu 12 Dec 05:45:02 CET 2024]
+duration of test 15974
+end test [Thu 12 Dec 05:45:18 CET 2024]
+temp_after = temp=48.7'C

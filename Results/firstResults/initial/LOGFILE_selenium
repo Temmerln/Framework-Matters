@@ -1,0 +1,174 @@
+temp_fib_start = temp=46.7'C
+start fibonacci [Tue 10 Dec 08:55:37 CET 2024]
+duration of test 499
+end fibonacci [Tue 10 Dec 08:55:38 CET 2024]
+temp_fib_end = temp=47.2'C
+./SeleniumEC/Tests/action1_clear.js
+./SeleniumEC/Tests/action1_clear.js; Run 1; 
+temp_before = temp=44.8'C
+start test [Tue 10 Dec 08:57:38 CET 2024]
+duration of test 10483
+end test [Tue 10 Dec 08:57:48 CET 2024]
+temp_after = temp=51.1'C
+./SeleniumEC/Tests/action1_clear.js; Run 2; 
+temp_before = temp=45.2'C
+start test [Tue 10 Dec 08:59:48 CET 2024]
+duration of test 10256
+end test [Tue 10 Dec 08:59:59 CET 2024]
+temp_after = temp=50.1'C
+./SeleniumEC/Tests/action1.js
+./SeleniumEC/Tests/action1.js; Run 1; 
+temp_before = temp=43.3'C
+start test [Tue 10 Dec 09:06:59 CET 2024]
+duration of test 9736
+end test [Tue 10 Dec 09:07:08 CET 2024]
+temp_after = temp=48.2'C
+./SeleniumEC/Tests/action1.js; Run 2; 
+temp_before = temp=44.3'C
+start test [Tue 10 Dec 09:09:09 CET 2024]
+duration of test 9858
+end test [Tue 10 Dec 09:09:18 CET 2024]
+temp_after = temp=48.7'C
+./SeleniumEC/Tests/action2_5_clear.js
+./SeleniumEC/Tests/action2_5_clear.js; Run 1; 
+temp_before = temp=42.3'C
+start test [Tue 10 Dec 09:16:18 CET 2024]
+duration of test 28266
+end test [Tue 10 Dec 09:16:47 CET 2024]
+temp_after = temp=49.1'C
+./SeleniumEC/Tests/action2_5_clear.js; Run 2; 
+temp_before = temp=43.3'C
+start test [Tue 10 Dec 09:18:47 CET 2024]
+duration of test 28165
+end test [Tue 10 Dec 09:19:15 CET 2024]
+temp_after = temp=50.6'C
+./SeleniumEC/Tests/action2_5.js
+./SeleniumEC/Tests/action2_5.js; Run 1; 
+temp_before = temp=43.3'C
+start test [Tue 10 Dec 09:26:15 CET 2024]
+duration of test 26592
+end test [Tue 10 Dec 09:26:42 CET 2024]
+temp_after = temp=49.6'C
+./SeleniumEC/Tests/action2_5.js; Run 2; 
+temp_before = temp=44.3'C
+start test [Tue 10 Dec 09:28:42 CET 2024]
+duration of test 26802
+end test [Tue 10 Dec 09:29:08 CET 2024]
+temp_after = temp=50.1'C
+./SeleniumEC/Tests/action2.js
+./SeleniumEC/Tests/action2.js; Run 1; 
+temp_before = temp=43.3'C
+start test [Tue 10 Dec 09:36:08 CET 2024]
+duration of test 54381
+end test [Tue 10 Dec 09:37:03 CET 2024]
+temp_after = temp=45.7'C
+./SeleniumEC/Tests/action2.js; Run 2; 
+temp_before = temp=44.3'C
+start test [Tue 10 Dec 09:39:03 CET 2024]
+duration of test 53961
+end test [Tue 10 Dec 09:39:57 CET 2024]
+temp_after = temp=46.2'C
+./SeleniumEC/Tests/action3.js
+./SeleniumEC/Tests/action3.js; Run 1; 
+temp_before = temp=43.3'C
+start test [Tue 10 Dec 09:46:57 CET 2024]
+duration of test 25844
+end test [Tue 10 Dec 09:47:23 CET 2024]
+temp_after = temp=46.2'C
+./SeleniumEC/Tests/action3.js; Run 2; 
+temp_before = temp=43.8'C
+start test [Tue 10 Dec 09:49:23 CET 2024]
+duration of test 24986
+end test [Tue 10 Dec 09:49:48 CET 2024]
+temp_after = temp=44.3'C
+./SeleniumEC/Tests/action4.js
+./SeleniumEC/Tests/action4.js; Run 1; 
+temp_before = temp=42.8'C
+start test [Tue 10 Dec 09:56:48 CET 2024]
+duration of test 25887
+end test [Tue 10 Dec 09:57:14 CET 2024]
+temp_after = temp=45.2'C
+./SeleniumEC/Tests/action4.js; Run 2; 
+temp_before = temp=43.8'C
+start test [Tue 10 Dec 09:59:14 CET 2024]
+duration of test 26005
+end test [Tue 10 Dec 09:59:40 CET 2024]
+temp_after = temp=45.2'C
+./SeleniumEC/Tests/action5.js
+./SeleniumEC/Tests/action5.js; Run 1; 
+temp_before = temp=42.3'C
+start test [Tue 10 Dec 10:06:40 CET 2024]
+duration of test 19898
+end test [Tue 10 Dec 10:07:00 CET 2024]
+temp_after = temp=44.3'C
+./SeleniumEC/Tests/action5.js; Run 2; 
+temp_before = temp=43.8'C
+start test [Tue 10 Dec 10:09:00 CET 2024]
+duration of test 19342
+end test [Tue 10 Dec 10:09:19 CET 2024]
+temp_after = temp=46.2'C
+./SeleniumEC/Tests/action6.js
+./SeleniumEC/Tests/action6.js; Run 1; 
+temp_before = temp=42.8'C
+start test [Tue 10 Dec 10:16:19 CET 2024]
+duration of test 17390
+end test [Tue 10 Dec 10:16:37 CET 2024]
+temp_after = temp=44.8'C
+./SeleniumEC/Tests/action6.js; Run 2; 
+temp_before = temp=42.8'C
+start test [Tue 10 Dec 10:18:37 CET 2024]
+duration of test 17438
+end test [Tue 10 Dec 10:18:54 CET 2024]
+temp_after = temp=43.8'C
+./SeleniumEC/Tests/action7_2_nobackspace.js
+./SeleniumEC/Tests/action7_2_nobackspace.js; Run 1; 
+temp_before = temp=42.8'C
+start test [Tue 10 Dec 10:25:54 CET 2024]
+duration of test 12607
+end test [Tue 10 Dec 10:26:07 CET 2024]
+temp_after = temp=46.7'C
+./SeleniumEC/Tests/action7_2_nobackspace.js; Run 2; 
+temp_before = temp=43.3'C
+start test [Tue 10 Dec 10:28:07 CET 2024]
+duration of test 12810
+end test [Tue 10 Dec 10:28:20 CET 2024]
+temp_after = temp=47.2'C
+./SeleniumEC/Tests/action7_3_noclear.js
+./SeleniumEC/Tests/action7_3_noclear.js; Run 1; 
+temp_before = temp=42.3'C
+start test [Tue 10 Dec 10:35:20 CET 2024]
+duration of test 16810
+end test [Tue 10 Dec 10:35:37 CET 2024]
+temp_after = temp=48.2'C
+./SeleniumEC/Tests/action7_3_noclear.js; Run 2; 
+temp_before = temp=43.3'C
+start test [Tue 10 Dec 10:37:37 CET 2024]
+duration of test 16768
+end test [Tue 10 Dec 10:37:53 CET 2024]
+temp_after = temp=47.2'C
+./SeleniumEC/Tests/action7.js
+./SeleniumEC/Tests/action7.js; Run 1; 
+temp_before = temp=43.3'C
+start test [Tue 10 Dec 10:44:53 CET 2024]
+duration of test 16988
+end test [Tue 10 Dec 10:45:10 CET 2024]
+temp_after = temp=46.7'C
+./SeleniumEC/Tests/action7.js; Run 2; 
+temp_before = temp=42.8'C
+start test [Tue 10 Dec 10:47:10 CET 2024]
+duration of test 17214
+end test [Tue 10 Dec 10:47:28 CET 2024]
+temp_after = temp=47.2'C
+./SeleniumEC/Tests/action8.js
+./SeleniumEC/Tests/action8.js; Run 1; 
+temp_before = temp=42.3'C
+start test [Tue 10 Dec 10:54:28 CET 2024]
+duration of test 5481
+end test [Tue 10 Dec 10:54:33 CET 2024]
+temp_after = temp=45.7'C
+./SeleniumEC/Tests/action8.js; Run 2; 
+temp_before = temp=43.3'C
+start test [Tue 10 Dec 10:56:33 CET 2024]
+duration of test 5584
+end test [Tue 10 Dec 10:56:39 CET 2024]
+temp_after = temp=45.7'C

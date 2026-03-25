@@ -1,0 +1,1693 @@
+temp_fib_start = temp=38.9'C
+start fibonacci [Wed 11 Dec 10:59:59 CET 2024]
+duration of test 415
+end fibonacci [Wed 11 Dec 10:59:59 CET 2024]
+temp_fib_end = temp=41.8'C
+./NightwatchEC/test/action1.js
+./NightwatchEC/test/action1.js; Run 1; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 11:01:59 CET 2024]
+duration of test 17487
+end test [Wed 11 Dec 11:02:17 CET 2024]
+temp_after = temp=45.2'C
+./NightwatchEC/test/action1.js; Run 2; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 11:04:17 CET 2024]
+duration of test 13876
+end test [Wed 11 Dec 11:04:31 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action1.js; Run 3; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 11:06:31 CET 2024]
+duration of test 13850
+end test [Wed 11 Dec 11:06:45 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action1.js; Run 4; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 11:08:45 CET 2024]
+duration of test 13840
+end test [Wed 11 Dec 11:08:58 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action1.js; Run 5; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 11:10:58 CET 2024]
+duration of test 13779
+end test [Wed 11 Dec 11:11:12 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action1.js; Run 6; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 11:13:12 CET 2024]
+duration of test 13776
+end test [Wed 11 Dec 11:13:26 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action1.js; Run 7; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 11:15:26 CET 2024]
+duration of test 13822
+end test [Wed 11 Dec 11:15:40 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action1.js; Run 8; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 11:17:40 CET 2024]
+duration of test 13883
+end test [Wed 11 Dec 11:17:54 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action1.js; Run 9; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 11:19:54 CET 2024]
+duration of test 13797
+end test [Wed 11 Dec 11:20:08 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action1.js; Run 10; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 11:22:08 CET 2024]
+duration of test 13707
+end test [Wed 11 Dec 11:22:21 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action1.js; Run 11; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 11:24:22 CET 2024]
+duration of test 14020
+end test [Wed 11 Dec 11:24:36 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action1.js; Run 12; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 11:26:36 CET 2024]
+duration of test 13804
+end test [Wed 11 Dec 11:26:49 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action1.js; Run 13; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 11:28:49 CET 2024]
+duration of test 13723
+end test [Wed 11 Dec 11:29:03 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action1.js; Run 14; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 11:31:03 CET 2024]
+duration of test 13802
+end test [Wed 11 Dec 11:31:17 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action1.js; Run 15; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 11:33:17 CET 2024]
+duration of test 13919
+end test [Wed 11 Dec 11:33:31 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action1.js; Run 16; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 11:35:31 CET 2024]
+duration of test 13839
+end test [Wed 11 Dec 11:35:45 CET 2024]
+temp_after = temp=44.8'C
+./NightwatchEC/test/action1.js; Run 17; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 11:37:45 CET 2024]
+duration of test 13870
+end test [Wed 11 Dec 11:37:59 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action1.js; Run 18; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 11:39:59 CET 2024]
+duration of test 13808
+end test [Wed 11 Dec 11:40:13 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action1.js; Run 19; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 11:42:13 CET 2024]
+duration of test 13795
+end test [Wed 11 Dec 11:42:26 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action1.js; Run 20; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 11:44:27 CET 2024]
+duration of test 13756
+end test [Wed 11 Dec 11:44:40 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action1.js; Run 21; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 11:46:40 CET 2024]
+duration of test 13880
+end test [Wed 11 Dec 11:46:54 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action1.js; Run 22; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 11:48:54 CET 2024]
+duration of test 14109
+end test [Wed 11 Dec 11:49:08 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action1.js; Run 23; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 11:51:08 CET 2024]
+duration of test 13844
+end test [Wed 11 Dec 11:51:22 CET 2024]
+temp_after = temp=45.2'C
+./NightwatchEC/test/action1.js; Run 24; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 11:53:22 CET 2024]
+duration of test 13802
+end test [Wed 11 Dec 11:53:36 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action1.js; Run 25; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 11:55:36 CET 2024]
+duration of test 13994
+end test [Wed 11 Dec 11:55:50 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action1.js; Run 26; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 11:57:50 CET 2024]
+duration of test 13833
+end test [Wed 11 Dec 11:58:04 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action1.js; Run 27; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 12:00:04 CET 2024]
+duration of test 14017
+end test [Wed 11 Dec 12:00:18 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action1.js; Run 28; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 12:02:18 CET 2024]
+duration of test 13847
+end test [Wed 11 Dec 12:02:32 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action1.js; Run 29; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 12:04:32 CET 2024]
+duration of test 13768
+end test [Wed 11 Dec 12:04:46 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action1.js; Run 30; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 12:06:46 CET 2024]
+duration of test 13786
+end test [Wed 11 Dec 12:07:00 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action1.js; Run 31; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 12:09:00 CET 2024]
+duration of test 13774
+end test [Wed 11 Dec 12:09:13 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action1.js; Run 32; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 12:11:13 CET 2024]
+duration of test 13890
+end test [Wed 11 Dec 12:11:27 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action1.js; Run 33; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 12:13:27 CET 2024]
+duration of test 13966
+end test [Wed 11 Dec 12:13:41 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action1.js; Run 34; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 12:15:41 CET 2024]
+duration of test 13785
+end test [Wed 11 Dec 12:15:55 CET 2024]
+temp_after = temp=45.2'C
+./NightwatchEC/test/action1.js; Run 35; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 12:17:55 CET 2024]
+duration of test 13791
+end test [Wed 11 Dec 12:18:09 CET 2024]
+temp_after = temp=45.2'C
+./NightwatchEC/test/action2.js
+./NightwatchEC/test/action2.js; Run 1; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 12:25:09 CET 2024]
+duration of test 34262
+end test [Wed 11 Dec 12:25:43 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action2.js; Run 2; 
+temp_before = temp=38.9'C
+start test [Wed 11 Dec 12:27:43 CET 2024]
+duration of test 34563
+end test [Wed 11 Dec 12:28:18 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action2.js; Run 3; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 12:30:18 CET 2024]
+duration of test 34256
+end test [Wed 11 Dec 12:30:52 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action2.js; Run 4; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 12:32:52 CET 2024]
+duration of test 34212
+end test [Wed 11 Dec 12:33:27 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action2.js; Run 5; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 12:35:27 CET 2024]
+duration of test 34452
+end test [Wed 11 Dec 12:36:01 CET 2024]
+temp_after = temp=48.7'C
+./NightwatchEC/test/action2.js; Run 6; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 12:38:01 CET 2024]
+duration of test 34710
+end test [Wed 11 Dec 12:38:36 CET 2024]
+temp_after = temp=48.7'C
+./NightwatchEC/test/action2.js; Run 7; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 12:40:36 CET 2024]
+duration of test 34284
+end test [Wed 11 Dec 12:41:10 CET 2024]
+temp_after = temp=48.7'C
+./NightwatchEC/test/action2.js; Run 8; 
+temp_before = temp=42.3'C
+start test [Wed 11 Dec 12:43:10 CET 2024]
+duration of test 34376
+end test [Wed 11 Dec 12:43:45 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action2.js; Run 9; 
+temp_before = temp=41.8'C
+start test [Wed 11 Dec 12:45:45 CET 2024]
+duration of test 34247
+end test [Wed 11 Dec 12:46:19 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action2.js; Run 10; 
+temp_before = temp=41.8'C
+start test [Wed 11 Dec 12:48:19 CET 2024]
+duration of test 34510
+end test [Wed 11 Dec 12:48:53 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action2.js; Run 11; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 12:50:53 CET 2024]
+duration of test 34552
+end test [Wed 11 Dec 12:51:28 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action2.js; Run 12; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 12:53:28 CET 2024]
+duration of test 34556
+end test [Wed 11 Dec 12:54:03 CET 2024]
+temp_after = temp=48.7'C
+./NightwatchEC/test/action2.js; Run 13; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 12:56:03 CET 2024]
+duration of test 34295
+end test [Wed 11 Dec 12:56:37 CET 2024]
+temp_after = temp=49.6'C
+./NightwatchEC/test/action2.js; Run 14; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 12:58:37 CET 2024]
+duration of test 34165
+end test [Wed 11 Dec 12:59:11 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action2.js; Run 15; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 13:01:11 CET 2024]
+duration of test 34292
+end test [Wed 11 Dec 13:01:46 CET 2024]
+temp_after = temp=49.1'C
+./NightwatchEC/test/action2.js; Run 16; 
+temp_before = temp=41.8'C
+start test [Wed 11 Dec 13:03:46 CET 2024]
+duration of test 34368
+end test [Wed 11 Dec 13:04:20 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action2.js; Run 17; 
+temp_before = temp=41.8'C
+start test [Wed 11 Dec 13:06:20 CET 2024]
+duration of test 34358
+end test [Wed 11 Dec 13:06:54 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action2.js; Run 18; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 13:08:54 CET 2024]
+duration of test 34450
+end test [Wed 11 Dec 13:09:29 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action2.js; Run 19; 
+temp_before = temp=41.8'C
+start test [Wed 11 Dec 13:11:29 CET 2024]
+duration of test 34471
+end test [Wed 11 Dec 13:12:03 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action2.js; Run 20; 
+temp_before = temp=41.8'C
+start test [Wed 11 Dec 13:14:03 CET 2024]
+duration of test 34535
+end test [Wed 11 Dec 13:14:38 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action2.js; Run 21; 
+temp_before = temp=41.8'C
+start test [Wed 11 Dec 13:16:38 CET 2024]
+duration of test 34284
+end test [Wed 11 Dec 13:17:12 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action2.js; Run 22; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 13:19:12 CET 2024]
+duration of test 34492
+end test [Wed 11 Dec 13:19:47 CET 2024]
+temp_after = temp=49.1'C
+./NightwatchEC/test/action2.js; Run 23; 
+temp_before = temp=42.3'C
+start test [Wed 11 Dec 13:21:47 CET 2024]
+duration of test 34432
+end test [Wed 11 Dec 13:22:21 CET 2024]
+temp_after = temp=48.7'C
+./NightwatchEC/test/action2.js; Run 24; 
+temp_before = temp=41.8'C
+start test [Wed 11 Dec 13:24:21 CET 2024]
+duration of test 34558
+end test [Wed 11 Dec 13:24:56 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action2.js; Run 25; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 13:26:56 CET 2024]
+duration of test 34535
+end test [Wed 11 Dec 13:27:31 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action2.js; Run 26; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 13:29:31 CET 2024]
+duration of test 34472
+end test [Wed 11 Dec 13:30:05 CET 2024]
+temp_after = temp=49.1'C
+./NightwatchEC/test/action2.js; Run 27; 
+temp_before = temp=41.8'C
+start test [Wed 11 Dec 13:32:05 CET 2024]
+duration of test 34384
+end test [Wed 11 Dec 13:32:39 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action2.js; Run 28; 
+temp_before = temp=41.8'C
+start test [Wed 11 Dec 13:34:40 CET 2024]
+duration of test 34433
+end test [Wed 11 Dec 13:35:14 CET 2024]
+temp_after = temp=50.1'C
+./NightwatchEC/test/action2.js; Run 29; 
+temp_before = temp=41.8'C
+start test [Wed 11 Dec 13:37:14 CET 2024]
+duration of test 34483
+end test [Wed 11 Dec 13:37:48 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action2.js; Run 30; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 13:39:49 CET 2024]
+duration of test 34591
+end test [Wed 11 Dec 13:40:23 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action2.js; Run 31; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 13:42:23 CET 2024]
+duration of test 34396
+end test [Wed 11 Dec 13:42:58 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action2.js; Run 32; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 13:44:58 CET 2024]
+duration of test 34343
+end test [Wed 11 Dec 13:45:32 CET 2024]
+temp_after = temp=48.7'C
+./NightwatchEC/test/action2.js; Run 33; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 13:47:32 CET 2024]
+duration of test 34492
+end test [Wed 11 Dec 13:48:06 CET 2024]
+temp_after = temp=49.1'C
+./NightwatchEC/test/action2.js; Run 34; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 13:50:07 CET 2024]
+duration of test 34363
+end test [Wed 11 Dec 13:50:41 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action2.js; Run 35; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 13:52:41 CET 2024]
+duration of test 34414
+end test [Wed 11 Dec 13:53:15 CET 2024]
+temp_after = temp=49.6'C
+./NightwatchEC/test/action3.js
+./NightwatchEC/test/action3.js; Run 1; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 14:00:15 CET 2024]
+duration of test 29843
+end test [Wed 11 Dec 14:00:45 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action3.js; Run 2; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 14:02:45 CET 2024]
+duration of test 29732
+end test [Wed 11 Dec 14:03:15 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action3.js; Run 3; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 14:05:15 CET 2024]
+duration of test 29636
+end test [Wed 11 Dec 14:05:45 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action3.js; Run 4; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 14:07:45 CET 2024]
+duration of test 28804
+end test [Wed 11 Dec 14:08:14 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action3.js; Run 5; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 14:10:14 CET 2024]
+duration of test 29831
+end test [Wed 11 Dec 14:10:43 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action3.js; Run 6; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 14:12:43 CET 2024]
+duration of test 29846
+end test [Wed 11 Dec 14:13:13 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action3.js; Run 7; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 14:15:13 CET 2024]
+duration of test 30043
+end test [Wed 11 Dec 14:15:43 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action3.js; Run 8; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 14:17:43 CET 2024]
+duration of test 29018
+end test [Wed 11 Dec 14:18:13 CET 2024]
+temp_after = temp=44.3'C
+./NightwatchEC/test/action3.js; Run 9; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 14:20:13 CET 2024]
+duration of test 29679
+end test [Wed 11 Dec 14:20:42 CET 2024]
+temp_after = temp=41.8'C
+./NightwatchEC/test/action3.js; Run 10; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 14:22:42 CET 2024]
+duration of test 28819
+end test [Wed 11 Dec 14:23:11 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action3.js; Run 11; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 14:25:11 CET 2024]
+duration of test 28839
+end test [Wed 11 Dec 14:25:40 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action3.js; Run 12; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 14:27:40 CET 2024]
+duration of test 28893
+end test [Wed 11 Dec 14:28:09 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action3.js; Run 13; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 14:30:09 CET 2024]
+duration of test 28736
+end test [Wed 11 Dec 14:30:38 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action3.js; Run 14; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 14:32:38 CET 2024]
+duration of test 30501
+end test [Wed 11 Dec 14:33:08 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action3.js; Run 15; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 14:35:08 CET 2024]
+duration of test 28779
+end test [Wed 11 Dec 14:35:37 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action3.js; Run 16; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 14:37:37 CET 2024]
+duration of test 29827
+end test [Wed 11 Dec 14:38:07 CET 2024]
+temp_after = temp=41.8'C
+./NightwatchEC/test/action3.js; Run 17; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 14:40:07 CET 2024]
+duration of test 28885
+end test [Wed 11 Dec 14:40:36 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action3.js; Run 18; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 14:42:36 CET 2024]
+duration of test 29825
+end test [Wed 11 Dec 14:43:06 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action3.js; Run 19; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 14:45:06 CET 2024]
+duration of test 28810
+end test [Wed 11 Dec 14:45:35 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action3.js; Run 20; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 14:47:35 CET 2024]
+duration of test 30656
+end test [Wed 11 Dec 14:48:05 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action3.js; Run 21; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 14:50:05 CET 2024]
+duration of test 29034
+end test [Wed 11 Dec 14:50:34 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action3.js; Run 22; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 14:52:34 CET 2024]
+duration of test 28740
+end test [Wed 11 Dec 14:53:03 CET 2024]
+temp_after = temp=41.8'C
+./NightwatchEC/test/action3.js; Run 23; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 14:55:03 CET 2024]
+duration of test 29243
+end test [Wed 11 Dec 14:55:33 CET 2024]
+temp_after = temp=44.3'C
+./NightwatchEC/test/action3.js; Run 24; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 14:57:33 CET 2024]
+duration of test 29705
+end test [Wed 11 Dec 14:58:02 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action3.js; Run 25; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 15:00:02 CET 2024]
+duration of test 28883
+end test [Wed 11 Dec 15:00:31 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action3.js; Run 26; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 15:02:31 CET 2024]
+duration of test 28973
+end test [Wed 11 Dec 15:03:00 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action3.js; Run 27; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 15:05:00 CET 2024]
+duration of test 28853
+end test [Wed 11 Dec 15:05:29 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action3.js; Run 28; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 15:07:29 CET 2024]
+duration of test 29718
+end test [Wed 11 Dec 15:07:59 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action3.js; Run 29; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 15:09:59 CET 2024]
+duration of test 29690
+end test [Wed 11 Dec 15:10:29 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action3.js; Run 30; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 15:12:29 CET 2024]
+duration of test 29753
+end test [Wed 11 Dec 15:12:58 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action3.js; Run 31; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 15:14:58 CET 2024]
+duration of test 28898
+end test [Wed 11 Dec 15:15:27 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action3.js; Run 32; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 15:17:27 CET 2024]
+duration of test 29801
+end test [Wed 11 Dec 15:17:57 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action3.js; Run 33; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 15:19:57 CET 2024]
+duration of test 28896
+end test [Wed 11 Dec 15:20:26 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action3.js; Run 34; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 15:22:26 CET 2024]
+duration of test 29727
+end test [Wed 11 Dec 15:22:56 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action3.js; Run 35; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 15:24:56 CET 2024]
+duration of test 28855
+end test [Wed 11 Dec 15:25:25 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action4.js
+./NightwatchEC/test/action4.js; Run 1; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 15:32:25 CET 2024]
+duration of test 29954
+end test [Wed 11 Dec 15:32:55 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action4.js; Run 2; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 15:34:55 CET 2024]
+duration of test 30245
+end test [Wed 11 Dec 15:35:25 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 3; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 15:37:25 CET 2024]
+duration of test 30097
+end test [Wed 11 Dec 15:37:55 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action4.js; Run 4; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 15:39:55 CET 2024]
+duration of test 29884
+end test [Wed 11 Dec 15:40:25 CET 2024]
+temp_after = temp=44.3'C
+./NightwatchEC/test/action4.js; Run 5; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 15:42:25 CET 2024]
+duration of test 29793
+end test [Wed 11 Dec 15:42:55 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 6; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 15:44:55 CET 2024]
+duration of test 29762
+end test [Wed 11 Dec 15:45:25 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action4.js; Run 7; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 15:47:25 CET 2024]
+duration of test 29764
+end test [Wed 11 Dec 15:47:55 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 8; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 15:49:55 CET 2024]
+duration of test 29677
+end test [Wed 11 Dec 15:50:24 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action4.js; Run 9; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 15:52:24 CET 2024]
+duration of test 29705
+end test [Wed 11 Dec 15:52:54 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 10; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 15:54:54 CET 2024]
+duration of test 29579
+end test [Wed 11 Dec 15:55:24 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 11; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 15:57:24 CET 2024]
+duration of test 30538
+end test [Wed 11 Dec 15:57:54 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 12; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 15:59:54 CET 2024]
+duration of test 30085
+end test [Wed 11 Dec 16:00:25 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 13; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 16:02:25 CET 2024]
+duration of test 30241
+end test [Wed 11 Dec 16:02:55 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action4.js; Run 14; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 16:04:55 CET 2024]
+duration of test 30229
+end test [Wed 11 Dec 16:05:25 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action4.js; Run 15; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 16:07:25 CET 2024]
+duration of test 30223
+end test [Wed 11 Dec 16:07:55 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 16; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 16:09:55 CET 2024]
+duration of test 29432
+end test [Wed 11 Dec 16:10:25 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action4.js; Run 17; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 16:12:25 CET 2024]
+duration of test 29827
+end test [Wed 11 Dec 16:12:55 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 18; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 16:14:55 CET 2024]
+duration of test 30231
+end test [Wed 11 Dec 16:15:25 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action4.js; Run 19; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 16:17:25 CET 2024]
+duration of test 30255
+end test [Wed 11 Dec 16:17:55 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action4.js; Run 20; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 16:19:55 CET 2024]
+duration of test 30230
+end test [Wed 11 Dec 16:20:26 CET 2024]
+temp_after = temp=44.3'C
+./NightwatchEC/test/action4.js; Run 21; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 16:22:26 CET 2024]
+duration of test 29884
+end test [Wed 11 Dec 16:22:56 CET 2024]
+temp_after = temp=44.8'C
+./NightwatchEC/test/action4.js; Run 22; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 16:24:56 CET 2024]
+duration of test 29804
+end test [Wed 11 Dec 16:25:25 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 23; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 16:27:25 CET 2024]
+duration of test 29913
+end test [Wed 11 Dec 16:27:55 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action4.js; Run 24; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 16:29:55 CET 2024]
+duration of test 29787
+end test [Wed 11 Dec 16:30:25 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action4.js; Run 25; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 16:32:25 CET 2024]
+duration of test 30412
+end test [Wed 11 Dec 16:32:56 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 26; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 16:34:56 CET 2024]
+duration of test 29860
+end test [Wed 11 Dec 16:35:26 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action4.js; Run 27; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 16:37:26 CET 2024]
+duration of test 30605
+end test [Wed 11 Dec 16:37:56 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 28; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 16:39:56 CET 2024]
+duration of test 30097
+end test [Wed 11 Dec 16:40:26 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 29; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 16:42:26 CET 2024]
+duration of test 30628
+end test [Wed 11 Dec 16:42:57 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action4.js; Run 30; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 16:44:57 CET 2024]
+duration of test 29869
+end test [Wed 11 Dec 16:45:27 CET 2024]
+temp_after = temp=44.3'C
+./NightwatchEC/test/action4.js; Run 31; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 16:47:27 CET 2024]
+duration of test 30340
+end test [Wed 11 Dec 16:47:57 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action4.js; Run 32; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 16:49:57 CET 2024]
+duration of test 30684
+end test [Wed 11 Dec 16:50:28 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action4.js; Run 33; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 16:52:28 CET 2024]
+duration of test 30156
+end test [Wed 11 Dec 16:52:58 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action4.js; Run 34; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 16:54:58 CET 2024]
+duration of test 29901
+end test [Wed 11 Dec 16:55:28 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action4.js; Run 35; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 16:57:28 CET 2024]
+duration of test 30326
+end test [Wed 11 Dec 16:57:59 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action5.js
+./NightwatchEC/test/action5.js; Run 1; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 17:04:59 CET 2024]
+duration of test 28735
+end test [Wed 11 Dec 17:05:27 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action5.js; Run 2; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 17:07:27 CET 2024]
+duration of test 28841
+end test [Wed 11 Dec 17:07:56 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action5.js; Run 3; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 17:09:56 CET 2024]
+duration of test 28717
+end test [Wed 11 Dec 17:10:25 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action5.js; Run 4; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 17:12:25 CET 2024]
+duration of test 28748
+end test [Wed 11 Dec 17:12:54 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action5.js; Run 5; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 17:14:54 CET 2024]
+duration of test 28722
+end test [Wed 11 Dec 17:15:23 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action5.js; Run 6; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 17:17:23 CET 2024]
+duration of test 28865
+end test [Wed 11 Dec 17:17:51 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action5.js; Run 7; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 17:19:52 CET 2024]
+duration of test 28692
+end test [Wed 11 Dec 17:20:20 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action5.js; Run 8; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 17:22:20 CET 2024]
+duration of test 28745
+end test [Wed 11 Dec 17:22:49 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action5.js; Run 9; 
+temp_before = temp=41.8'C
+start test [Wed 11 Dec 17:24:49 CET 2024]
+duration of test 28901
+end test [Wed 11 Dec 17:25:18 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action5.js; Run 10; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 17:27:18 CET 2024]
+duration of test 28793
+end test [Wed 11 Dec 17:27:47 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action5.js; Run 11; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 17:29:47 CET 2024]
+duration of test 28886
+end test [Wed 11 Dec 17:30:16 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action5.js; Run 12; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 17:32:16 CET 2024]
+duration of test 28808
+end test [Wed 11 Dec 17:32:45 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action5.js; Run 13; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 17:34:45 CET 2024]
+duration of test 28716
+end test [Wed 11 Dec 17:35:13 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action5.js; Run 14; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 17:37:13 CET 2024]
+duration of test 28799
+end test [Wed 11 Dec 17:37:42 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action5.js; Run 15; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 17:39:42 CET 2024]
+duration of test 28718
+end test [Wed 11 Dec 17:40:11 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action5.js; Run 16; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 17:42:11 CET 2024]
+duration of test 28733
+end test [Wed 11 Dec 17:42:40 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action5.js; Run 17; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 17:44:40 CET 2024]
+duration of test 28799
+end test [Wed 11 Dec 17:45:09 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action5.js; Run 18; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 17:47:09 CET 2024]
+duration of test 28788
+end test [Wed 11 Dec 17:47:37 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action5.js; Run 19; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 17:49:37 CET 2024]
+duration of test 28616
+end test [Wed 11 Dec 17:50:06 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action5.js; Run 20; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 17:52:06 CET 2024]
+duration of test 28610
+end test [Wed 11 Dec 17:52:35 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action5.js; Run 21; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 17:54:35 CET 2024]
+duration of test 28786
+end test [Wed 11 Dec 17:55:04 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action5.js; Run 22; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 17:57:04 CET 2024]
+duration of test 28612
+end test [Wed 11 Dec 17:57:32 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action5.js; Run 23; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 17:59:32 CET 2024]
+duration of test 28839
+end test [Wed 11 Dec 18:00:01 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action5.js; Run 24; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 18:02:01 CET 2024]
+duration of test 28845
+end test [Wed 11 Dec 18:02:30 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action5.js; Run 25; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 18:04:30 CET 2024]
+duration of test 28936
+end test [Wed 11 Dec 18:04:59 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action5.js; Run 26; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 18:06:59 CET 2024]
+duration of test 28605
+end test [Wed 11 Dec 18:07:28 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action5.js; Run 27; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 18:09:28 CET 2024]
+duration of test 28903
+end test [Wed 11 Dec 18:09:57 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action5.js; Run 28; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 18:11:57 CET 2024]
+duration of test 28730
+end test [Wed 11 Dec 18:12:25 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action5.js; Run 29; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 18:14:25 CET 2024]
+duration of test 28670
+end test [Wed 11 Dec 18:14:54 CET 2024]
+temp_after = temp=48.2'C
+./NightwatchEC/test/action5.js; Run 30; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 18:16:54 CET 2024]
+duration of test 28935
+end test [Wed 11 Dec 18:17:23 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action5.js; Run 31; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 18:19:23 CET 2024]
+duration of test 28939
+end test [Wed 11 Dec 18:19:52 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action5.js; Run 32; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 18:21:52 CET 2024]
+duration of test 28965
+end test [Wed 11 Dec 18:22:21 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action5.js; Run 33; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 18:24:21 CET 2024]
+duration of test 28872
+end test [Wed 11 Dec 18:24:50 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action5.js; Run 34; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 18:26:50 CET 2024]
+duration of test 28940
+end test [Wed 11 Dec 18:27:19 CET 2024]
+temp_after = temp=47.7'C
+./NightwatchEC/test/action5.js; Run 35; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 18:29:19 CET 2024]
+duration of test 28744
+end test [Wed 11 Dec 18:29:48 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action6.js
+./NightwatchEC/test/action6.js; Run 1; 
+temp_before = temp=38.9'C
+start test [Wed 11 Dec 18:36:48 CET 2024]
+duration of test 22562
+end test [Wed 11 Dec 18:37:10 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action6.js; Run 2; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 18:39:10 CET 2024]
+duration of test 22459
+end test [Wed 11 Dec 18:39:33 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action6.js; Run 3; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 18:41:33 CET 2024]
+duration of test 22022
+end test [Wed 11 Dec 18:41:55 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 4; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 18:43:55 CET 2024]
+duration of test 22741
+end test [Wed 11 Dec 18:44:18 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action6.js; Run 5; 
+temp_before = temp=38.9'C
+start test [Wed 11 Dec 18:46:18 CET 2024]
+duration of test 21619
+end test [Wed 11 Dec 18:46:39 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 6; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 18:48:40 CET 2024]
+duration of test 21594
+end test [Wed 11 Dec 18:49:01 CET 2024]
+temp_after = temp=44.3'C
+./NightwatchEC/test/action6.js; Run 7; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 18:51:01 CET 2024]
+duration of test 22427
+end test [Wed 11 Dec 18:51:24 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action6.js; Run 8; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 18:53:24 CET 2024]
+duration of test 21815
+end test [Wed 11 Dec 18:53:45 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action6.js; Run 9; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 18:55:45 CET 2024]
+duration of test 22394
+end test [Wed 11 Dec 18:56:08 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 10; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 18:58:08 CET 2024]
+duration of test 22254
+end test [Wed 11 Dec 18:58:30 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 11; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 19:00:30 CET 2024]
+duration of test 22164
+end test [Wed 11 Dec 19:00:52 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action6.js; Run 12; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 19:02:52 CET 2024]
+duration of test 22421
+end test [Wed 11 Dec 19:03:15 CET 2024]
+temp_after = temp=41.8'C
+./NightwatchEC/test/action6.js; Run 13; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 19:05:15 CET 2024]
+duration of test 22488
+end test [Wed 11 Dec 19:05:37 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action6.js; Run 14; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 19:07:37 CET 2024]
+duration of test 22266
+end test [Wed 11 Dec 19:08:00 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action6.js; Run 15; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 19:10:00 CET 2024]
+duration of test 22200
+end test [Wed 11 Dec 19:10:22 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action6.js; Run 16; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 19:12:22 CET 2024]
+duration of test 21783
+end test [Wed 11 Dec 19:12:44 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 17; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 19:14:44 CET 2024]
+duration of test 22298
+end test [Wed 11 Dec 19:15:06 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action6.js; Run 18; 
+temp_before = temp=38.9'C
+start test [Wed 11 Dec 19:17:06 CET 2024]
+duration of test 21701
+end test [Wed 11 Dec 19:17:28 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 19; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 19:19:28 CET 2024]
+duration of test 21663
+end test [Wed 11 Dec 19:19:50 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 20; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 19:21:50 CET 2024]
+duration of test 22372
+end test [Wed 11 Dec 19:22:12 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action6.js; Run 21; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 19:24:12 CET 2024]
+duration of test 21783
+end test [Wed 11 Dec 19:24:34 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action6.js; Run 22; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 19:26:34 CET 2024]
+duration of test 21644
+end test [Wed 11 Dec 19:26:56 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 23; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 19:28:56 CET 2024]
+duration of test 22553
+end test [Wed 11 Dec 19:29:18 CET 2024]
+temp_after = temp=41.8'C
+./NightwatchEC/test/action6.js; Run 24; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 19:31:18 CET 2024]
+duration of test 22242
+end test [Wed 11 Dec 19:31:40 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 25; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 19:33:40 CET 2024]
+duration of test 22402
+end test [Wed 11 Dec 19:34:03 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action6.js; Run 26; 
+temp_before = temp=38.9'C
+start test [Wed 11 Dec 19:36:03 CET 2024]
+duration of test 21577
+end test [Wed 11 Dec 19:36:25 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 27; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 19:38:25 CET 2024]
+duration of test 22507
+end test [Wed 11 Dec 19:38:47 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 28; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 19:40:47 CET 2024]
+duration of test 22622
+end test [Wed 11 Dec 19:41:10 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 29; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 19:43:10 CET 2024]
+duration of test 22450
+end test [Wed 11 Dec 19:43:32 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action6.js; Run 30; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 19:45:32 CET 2024]
+duration of test 23425
+end test [Wed 11 Dec 19:45:56 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action6.js; Run 31; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 19:47:56 CET 2024]
+duration of test 21586
+end test [Wed 11 Dec 19:48:17 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action6.js; Run 32; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 19:50:17 CET 2024]
+duration of test 21834
+end test [Wed 11 Dec 19:50:39 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action6.js; Run 33; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 19:52:39 CET 2024]
+duration of test 22760
+end test [Wed 11 Dec 19:53:02 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action6.js; Run 34; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 19:55:02 CET 2024]
+duration of test 22449
+end test [Wed 11 Dec 19:55:25 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action6.js; Run 35; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 19:57:25 CET 2024]
+duration of test 21870
+end test [Wed 11 Dec 19:57:46 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action7.js
+./NightwatchEC/test/action7.js; Run 1; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 20:04:47 CET 2024]
+duration of test 16804
+end test [Wed 11 Dec 20:05:03 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action7.js; Run 2; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 20:07:03 CET 2024]
+duration of test 16832
+end test [Wed 11 Dec 20:07:20 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action7.js; Run 3; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 20:09:20 CET 2024]
+duration of test 16721
+end test [Wed 11 Dec 20:09:37 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 4; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 20:11:37 CET 2024]
+duration of test 16643
+end test [Wed 11 Dec 20:11:54 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action7.js; Run 5; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 20:13:54 CET 2024]
+duration of test 16633
+end test [Wed 11 Dec 20:14:10 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action7.js; Run 6; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 20:16:10 CET 2024]
+duration of test 16669
+end test [Wed 11 Dec 20:16:27 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action7.js; Run 7; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 20:18:27 CET 2024]
+duration of test 16733
+end test [Wed 11 Dec 20:18:44 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 8; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 20:20:44 CET 2024]
+duration of test 16807
+end test [Wed 11 Dec 20:21:01 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action7.js; Run 9; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 20:23:01 CET 2024]
+duration of test 16782
+end test [Wed 11 Dec 20:23:18 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 10; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 20:25:18 CET 2024]
+duration of test 16741
+end test [Wed 11 Dec 20:25:34 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 11; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 20:27:34 CET 2024]
+duration of test 16744
+end test [Wed 11 Dec 20:27:51 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action7.js; Run 12; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 20:29:51 CET 2024]
+duration of test 16673
+end test [Wed 11 Dec 20:30:08 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action7.js; Run 13; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 20:32:08 CET 2024]
+duration of test 16788
+end test [Wed 11 Dec 20:32:25 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action7.js; Run 14; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 20:34:25 CET 2024]
+duration of test 16634
+end test [Wed 11 Dec 20:34:41 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action7.js; Run 15; 
+temp_before = temp=38.9'C
+start test [Wed 11 Dec 20:36:41 CET 2024]
+duration of test 16744
+end test [Wed 11 Dec 20:36:58 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action7.js; Run 16; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 20:38:58 CET 2024]
+duration of test 16775
+end test [Wed 11 Dec 20:39:15 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action7.js; Run 17; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 20:41:15 CET 2024]
+duration of test 16512
+end test [Wed 11 Dec 20:41:32 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action7.js; Run 18; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 20:43:32 CET 2024]
+duration of test 16738
+end test [Wed 11 Dec 20:43:48 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 19; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 20:45:48 CET 2024]
+duration of test 16613
+end test [Wed 11 Dec 20:46:05 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action7.js; Run 20; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 20:48:05 CET 2024]
+duration of test 16702
+end test [Wed 11 Dec 20:48:22 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 21; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 20:50:22 CET 2024]
+duration of test 16686
+end test [Wed 11 Dec 20:50:38 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 22; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 20:52:38 CET 2024]
+duration of test 16667
+end test [Wed 11 Dec 20:52:55 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 23; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 20:54:55 CET 2024]
+duration of test 16831
+end test [Wed 11 Dec 20:55:12 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action7.js; Run 24; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 20:57:12 CET 2024]
+duration of test 16701
+end test [Wed 11 Dec 20:57:29 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action7.js; Run 25; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 20:59:29 CET 2024]
+duration of test 16594
+end test [Wed 11 Dec 20:59:45 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 26; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 21:01:45 CET 2024]
+duration of test 16682
+end test [Wed 11 Dec 21:02:02 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action7.js; Run 27; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 21:04:02 CET 2024]
+duration of test 16700
+end test [Wed 11 Dec 21:04:19 CET 2024]
+temp_after = temp=47.2'C
+./NightwatchEC/test/action7.js; Run 28; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 21:06:19 CET 2024]
+duration of test 16738
+end test [Wed 11 Dec 21:06:36 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 29; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 21:08:36 CET 2024]
+duration of test 16624
+end test [Wed 11 Dec 21:08:52 CET 2024]
+temp_after = temp=45.7'C
+./NightwatchEC/test/action7.js; Run 30; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 21:10:52 CET 2024]
+duration of test 16832
+end test [Wed 11 Dec 21:11:09 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 31; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 21:13:09 CET 2024]
+duration of test 16708
+end test [Wed 11 Dec 21:13:26 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 32; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 21:15:26 CET 2024]
+duration of test 16731
+end test [Wed 11 Dec 21:15:43 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action7.js; Run 33; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 21:17:43 CET 2024]
+duration of test 16663
+end test [Wed 11 Dec 21:17:59 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 34; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 21:20:00 CET 2024]
+duration of test 16624
+end test [Wed 11 Dec 21:20:16 CET 2024]
+temp_after = temp=46.2'C
+./NightwatchEC/test/action7.js; Run 35; 
+temp_before = temp=40.9'C
+start test [Wed 11 Dec 21:22:16 CET 2024]
+duration of test 16808
+end test [Wed 11 Dec 21:22:33 CET 2024]
+temp_after = temp=46.7'C
+./NightwatchEC/test/action8.js
+./NightwatchEC/test/action8.js; Run 1; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 21:29:33 CET 2024]
+duration of test 22078
+end test [Wed 11 Dec 21:29:55 CET 2024]
+temp_after = temp=41.8'C
+./NightwatchEC/test/action8.js; Run 2; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 21:31:55 CET 2024]
+duration of test 22068
+end test [Wed 11 Dec 21:32:17 CET 2024]
+temp_after = temp=41.3'C
+./NightwatchEC/test/action8.js; Run 3; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 21:34:17 CET 2024]
+duration of test 22005
+end test [Wed 11 Dec 21:34:39 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action8.js; Run 4; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 21:36:39 CET 2024]
+duration of test 21987
+end test [Wed 11 Dec 21:37:01 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action8.js; Run 5; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 21:39:01 CET 2024]
+duration of test 22156
+end test [Wed 11 Dec 21:39:24 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action8.js; Run 6; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 21:41:24 CET 2024]
+duration of test 21317
+end test [Wed 11 Dec 21:41:45 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action8.js; Run 7; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 21:43:45 CET 2024]
+duration of test 21546
+end test [Wed 11 Dec 21:44:07 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action8.js; Run 8; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 21:46:07 CET 2024]
+duration of test 21933
+end test [Wed 11 Dec 21:46:29 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action8.js; Run 9; 
+temp_before = temp=38.9'C
+start test [Wed 11 Dec 21:48:29 CET 2024]
+duration of test 22205
+end test [Wed 11 Dec 21:48:51 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action8.js; Run 10; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 21:50:51 CET 2024]
+duration of test 22086
+end test [Wed 11 Dec 21:51:13 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action8.js; Run 11; 
+temp_before = temp=41.3'C
+start test [Wed 11 Dec 21:53:13 CET 2024]
+duration of test 22694
+end test [Wed 11 Dec 21:53:36 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action8.js; Run 12; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 21:55:36 CET 2024]
+duration of test 21868
+end test [Wed 11 Dec 21:55:58 CET 2024]
+temp_after = temp=41.8'C
+./NightwatchEC/test/action8.js; Run 13; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 21:57:58 CET 2024]
+duration of test 21322
+end test [Wed 11 Dec 21:58:19 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action8.js; Run 14; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 22:00:19 CET 2024]
+duration of test 21526
+end test [Wed 11 Dec 22:00:41 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action8.js; Run 15; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 22:02:41 CET 2024]
+duration of test 21331
+end test [Wed 11 Dec 22:03:02 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action8.js; Run 16; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 22:05:02 CET 2024]
+duration of test 22183
+end test [Wed 11 Dec 22:05:24 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action8.js; Run 17; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 22:07:24 CET 2024]
+duration of test 22952
+end test [Wed 11 Dec 22:07:47 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action8.js; Run 18; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 22:09:47 CET 2024]
+duration of test 21311
+end test [Wed 11 Dec 22:10:08 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action8.js; Run 19; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 22:12:09 CET 2024]
+duration of test 22719
+end test [Wed 11 Dec 22:12:31 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action8.js; Run 20; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 22:14:31 CET 2024]
+duration of test 22749
+end test [Wed 11 Dec 22:14:54 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action8.js; Run 21; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 22:16:54 CET 2024]
+duration of test 22096
+end test [Wed 11 Dec 22:17:16 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action8.js; Run 22; 
+temp_before = temp=38.9'C
+start test [Wed 11 Dec 22:19:16 CET 2024]
+duration of test 21323
+end test [Wed 11 Dec 22:19:38 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action8.js; Run 23; 
+temp_before = temp=39.4'C
+start test [Wed 11 Dec 22:21:38 CET 2024]
+duration of test 22127
+end test [Wed 11 Dec 22:22:00 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action8.js; Run 24; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 22:24:00 CET 2024]
+duration of test 22023
+end test [Wed 11 Dec 22:24:22 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action8.js; Run 25; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 22:26:22 CET 2024]
+duration of test 21345
+end test [Wed 11 Dec 22:26:43 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action8.js; Run 26; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 22:28:43 CET 2024]
+duration of test 22038
+end test [Wed 11 Dec 22:29:05 CET 2024]
+temp_after = temp=41.3'C
+./NightwatchEC/test/action8.js; Run 27; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 22:31:05 CET 2024]
+duration of test 21356
+end test [Wed 11 Dec 22:31:27 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action8.js; Run 28; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 22:33:27 CET 2024]
+duration of test 21288
+end test [Wed 11 Dec 22:33:48 CET 2024]
+temp_after = temp=43.8'C
+./NightwatchEC/test/action8.js; Run 29; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 22:35:48 CET 2024]
+duration of test 22768
+end test [Wed 11 Dec 22:36:11 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action8.js; Run 30; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 22:38:11 CET 2024]
+duration of test 21259
+end test [Wed 11 Dec 22:38:32 CET 2024]
+temp_after = temp=43.3'C
+./NightwatchEC/test/action8.js; Run 31; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 22:40:32 CET 2024]
+duration of test 22209
+end test [Wed 11 Dec 22:40:54 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action8.js; Run 32; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 22:42:54 CET 2024]
+duration of test 22751
+end test [Wed 11 Dec 22:43:17 CET 2024]
+temp_after = temp=42.3'C
+./NightwatchEC/test/action8.js; Run 33; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 22:45:17 CET 2024]
+duration of test 21717
+end test [Wed 11 Dec 22:45:39 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action8.js; Run 34; 
+temp_before = temp=40.4'C
+start test [Wed 11 Dec 22:47:39 CET 2024]
+duration of test 22117
+end test [Wed 11 Dec 22:48:01 CET 2024]
+temp_after = temp=42.8'C
+./NightwatchEC/test/action8.js; Run 35; 
+temp_before = temp=39.9'C
+start test [Wed 11 Dec 22:50:01 CET 2024]
+duration of test 22005
+end test [Wed 11 Dec 22:50:23 CET 2024]
+temp_after = temp=44.3'C

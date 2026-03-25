@@ -1,0 +1,216 @@
+temp_fib_start = temp=47.7'C
+start fibonacci [Thu 12 Dec 08:23:26 CET 2024]
+duration of test 1404
+end fibonacci [Thu 12 Dec 08:23:28 CET 2024]
+temp_fib_end = temp=49.1'C
+./PuppeteerEC/tests/idle/idle.js
+./PuppeteerEC/tests/idle/idle.js; Run 1; 
+temp_before = temp=48.2'C
+start test [Thu 12 Dec 08:30:58 CET 2024]
+duration of test 18170
+end test [Thu 12 Dec 08:31:16 CET 2024]
+temp_after = temp=48.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 2; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 08:36:16 CET 2024]
+duration of test 12470
+end test [Thu 12 Dec 08:36:28 CET 2024]
+temp_after = temp=48.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 3; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 08:41:28 CET 2024]
+duration of test 12347
+end test [Thu 12 Dec 08:41:41 CET 2024]
+temp_after = temp=47.2'C
+./PuppeteerEC/tests/idle/idle.js; Run 4; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 08:46:41 CET 2024]
+duration of test 12436
+end test [Thu 12 Dec 08:46:53 CET 2024]
+temp_after = temp=49.6'C
+./PuppeteerEC/tests/idle/idle.js; Run 5; 
+temp_before = temp=48.2'C
+start test [Thu 12 Dec 08:51:53 CET 2024]
+duration of test 12431
+end test [Thu 12 Dec 08:52:06 CET 2024]
+temp_after = temp=49.6'C
+./PuppeteerEC/tests/idle/idle.js; Run 6; 
+temp_before = temp=48.2'C
+start test [Thu 12 Dec 08:57:06 CET 2024]
+duration of test 12512
+end test [Thu 12 Dec 08:57:18 CET 2024]
+temp_after = temp=49.1'C
+./PuppeteerEC/tests/idle/idle.js; Run 7; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 09:02:18 CET 2024]
+duration of test 12457
+end test [Thu 12 Dec 09:02:31 CET 2024]
+temp_after = temp=48.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 8; 
+temp_before = temp=47.7'C
+start test [Thu 12 Dec 09:07:31 CET 2024]
+duration of test 12397
+end test [Thu 12 Dec 09:07:43 CET 2024]
+temp_after = temp=48.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 9; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 09:12:43 CET 2024]
+duration of test 12496
+end test [Thu 12 Dec 09:12:56 CET 2024]
+temp_after = temp=48.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 10; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 09:17:56 CET 2024]
+duration of test 12542
+end test [Thu 12 Dec 09:18:08 CET 2024]
+temp_after = temp=48.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 11; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 09:23:08 CET 2024]
+duration of test 12417
+end test [Thu 12 Dec 09:23:21 CET 2024]
+temp_after = temp=47.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 12; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 09:28:21 CET 2024]
+duration of test 12447
+end test [Thu 12 Dec 09:28:33 CET 2024]
+temp_after = temp=48.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 13; 
+temp_before = temp=46.2'C
+start test [Thu 12 Dec 09:33:33 CET 2024]
+duration of test 12455
+end test [Thu 12 Dec 09:33:46 CET 2024]
+temp_after = temp=48.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 14; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 09:38:46 CET 2024]
+duration of test 12478
+end test [Thu 12 Dec 09:38:58 CET 2024]
+temp_after = temp=49.1'C
+./PuppeteerEC/tests/idle/idle.js; Run 15; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 09:43:58 CET 2024]
+duration of test 12486
+end test [Thu 12 Dec 09:44:11 CET 2024]
+temp_after = temp=48.2'C
+./PuppeteerEC/tests/idle/idle.js; Run 16; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 09:49:11 CET 2024]
+duration of test 12489
+end test [Thu 12 Dec 09:49:23 CET 2024]
+temp_after = temp=48.2'C
+./PuppeteerEC/tests/idle/idle.js; Run 17; 
+temp_before = temp=46.2'C
+start test [Thu 12 Dec 09:54:23 CET 2024]
+duration of test 12584
+end test [Thu 12 Dec 09:54:36 CET 2024]
+temp_after = temp=47.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 18; 
+temp_before = temp=46.2'C
+start test [Thu 12 Dec 09:59:36 CET 2024]
+duration of test 12577
+end test [Thu 12 Dec 09:59:49 CET 2024]
+temp_after = temp=48.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 19; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 10:04:49 CET 2024]
+duration of test 12418
+end test [Thu 12 Dec 10:05:01 CET 2024]
+temp_after = temp=48.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 20; 
+temp_before = temp=46.2'C
+start test [Thu 12 Dec 10:10:01 CET 2024]
+duration of test 12396
+end test [Thu 12 Dec 10:10:14 CET 2024]
+temp_after = temp=49.1'C
+./PuppeteerEC/tests/idle/idle.js; Run 21; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 10:15:14 CET 2024]
+duration of test 12526
+end test [Thu 12 Dec 10:15:26 CET 2024]
+temp_after = temp=49.1'C
+./PuppeteerEC/tests/idle/idle.js; Run 22; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 10:20:26 CET 2024]
+duration of test 12418
+end test [Thu 12 Dec 10:20:39 CET 2024]
+temp_after = temp=48.2'C
+./PuppeteerEC/tests/idle/idle.js; Run 23; 
+temp_before = temp=46.2'C
+start test [Thu 12 Dec 10:25:39 CET 2024]
+duration of test 12435
+end test [Thu 12 Dec 10:25:51 CET 2024]
+temp_after = temp=47.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 24; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 10:30:51 CET 2024]
+duration of test 12546
+end test [Thu 12 Dec 10:31:04 CET 2024]
+temp_after = temp=48.2'C
+./PuppeteerEC/tests/idle/idle.js; Run 25; 
+temp_before = temp=46.2'C
+start test [Thu 12 Dec 10:36:04 CET 2024]
+duration of test 12500
+end test [Thu 12 Dec 10:36:16 CET 2024]
+temp_after = temp=48.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 26; 
+temp_before = temp=46.7'C
+start test [Thu 12 Dec 10:41:16 CET 2024]
+duration of test 12370
+end test [Thu 12 Dec 10:41:29 CET 2024]
+temp_after = temp=47.2'C
+./PuppeteerEC/tests/idle/idle.js; Run 27; 
+temp_before = temp=46.2'C
+start test [Thu 12 Dec 10:46:29 CET 2024]
+duration of test 12324
+end test [Thu 12 Dec 10:46:41 CET 2024]
+temp_after = temp=48.2'C
+./PuppeteerEC/tests/idle/idle.js; Run 28; 
+temp_before = temp=45.7'C
+start test [Thu 12 Dec 10:51:41 CET 2024]
+duration of test 12399
+end test [Thu 12 Dec 10:51:53 CET 2024]
+temp_after = temp=48.7'C
+./PuppeteerEC/tests/idle/idle.js; Run 29; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 10:56:54 CET 2024]
+duration of test 12531
+end test [Thu 12 Dec 10:57:06 CET 2024]
+temp_after = temp=49.1'C
+./PuppeteerEC/tests/idle/idle.js; Run 30; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 11:02:06 CET 2024]
+duration of test 12389
+end test [Thu 12 Dec 11:02:18 CET 2024]
+temp_after = temp=48.2'C
+./PuppeteerEC/tests/idle/idle.js; Run 31; 
+temp_before = temp=46.2'C
+start test [Thu 12 Dec 11:07:19 CET 2024]
+duration of test 12514
+end test [Thu 12 Dec 11:07:31 CET 2024]
+temp_after = temp=48.2'C
+./PuppeteerEC/tests/idle/idle.js; Run 32; 
+temp_before = temp=45.7'C
+start test [Thu 12 Dec 11:12:31 CET 2024]
+duration of test 12567
+end test [Thu 12 Dec 11:12:44 CET 2024]
+temp_after = temp=48.2'C
+./PuppeteerEC/tests/idle/idle.js; Run 33; 
+temp_before = temp=47.2'C
+start test [Thu 12 Dec 11:17:44 CET 2024]
+duration of test 12470
+end test [Thu 12 Dec 11:17:56 CET 2024]
+temp_after = temp=48.2'C
+./PuppeteerEC/tests/idle/idle.js; Run 34; 
+temp_before = temp=46.2'C
+start test [Thu 12 Dec 11:22:56 CET 2024]
+duration of test 12430
+end test [Thu 12 Dec 11:23:09 CET 2024]
+temp_after = temp=47.2'C
+./PuppeteerEC/tests/idle/idle.js; Run 35; 
+temp_before = temp=46.2'C
+start test [Thu 12 Dec 11:28:09 CET 2024]
+duration of test 12486
+end test [Thu 12 Dec 11:28:21 CET 2024]
+temp_after = temp=47.7'C
